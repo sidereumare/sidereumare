@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sidereumare
 
-![](https://komarev.com/ghpvc/?username=sidereumare)
-
 - 👀 I’m interested in Backend Develop
 - 🌱 I’m currently learning Security
 - 📫 How to reach me **sidereumare@gmail.com**
