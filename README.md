@@ -7,14 +7,13 @@
 - 📫 How to reach me **sidereumare@gmail.com**
 
 # Languages and Tool
-- c++
+- C++
 - Java
 - Python
 - Kotlin
 - Android Studio
 - Nodejs
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidereumare)](https://github.com/ryo-ma/github-profile-trophy)
+- AWS
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sidereumare&show_icons=true)
 
