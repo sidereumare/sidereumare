@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sidereumare
-
-- 👀 I’m interested in Backend Develop
 - 🌱 I’m currently learning Security
 - 📫 How to reach me **sidereumare@gmail.com**
 
