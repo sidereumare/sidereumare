@@ -29,9 +29,7 @@
 - [OhBank pentest app](https://github.com/sidereumare/OhBANK)(2022 하반기)
 - [GAN모델을 이용한 자연스러운 얼굴 비식별화](https://github.com/CSID-DGU/2021-2-OSSP1-ChiliSause-5)(2021 하반기)
 - [코로나 정보 애플리케이션](https://github.com/Yeonji-Lim/GSG_COVID-19infoApp)(2021 하반기)
-
-진행중 프로젝트
-- [image to code프로젝트](https://github.com/hyh1016/capstone-design-img2code)(2022 상반기 ~ )
+- [image to code프로젝트](https://github.com/hyh1016/capstone-design-img2code)(2022 하반기)
 
 
 # Git stats
